@@ -16,7 +16,7 @@ The following patterns were used:
 
 You can use the zip file to get the project or you can clone the repository.
 ```bash
-git clone https://github.com/diegoviana89/meli.git
+git clone https://github.com/diegoviana89/product-catalog-hexagonal.git
 ```
 
 Go to [run.md](run.md) file to know  the prerequisites and how to run the application.
